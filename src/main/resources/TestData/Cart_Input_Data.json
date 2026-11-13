@@ -1,0 +1,9 @@
+{
+  "verifyApplyCoupon": {
+    "username": "demo_user",
+    "password": "Demo@123",
+    "productName": "Drift Denim Jacket",
+    "couponCode": "SAVE10",
+    "expectedMessage": "SAVE10 applied — 10% off your order"
+  }
+}

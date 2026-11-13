@@ -1,0 +1,26 @@
+{
+  "verifyProductPurchase": {
+    "username": "demo_user",
+    "password": "Demo@123",
+    "productName": "Bloom Indoor Plant Kit",
+
+    "shippingDetails": {
+      "firstName": "Virendra",
+      "lastName": "Rai",
+      "email": "Virendrarai17@gmail.com",
+      "phone": "9148222456",
+      "address": "Quinton RD",
+      "city": "Birmingham",
+      "zipCode": "56007"
+    },
+
+    "paymentDetails": {
+      "cardHolderName": "Virendra",
+      "cardNumber": "4242 4242 4242 4242",
+      "expiryDate": "12/30",
+      "cvv": "123"
+    },
+
+    "expectedMessage": "Thank you for your order!"
+  }
+}
